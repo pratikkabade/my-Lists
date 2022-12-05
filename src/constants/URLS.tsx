@@ -1,0 +1,1 @@
+export const FooterURL = 'https://script.google.com/macros/s/AKfycbxYWVhtLbQWqxB6rXkHGpnzqWlG72qNYztW5Upn8mFq_i1Sqrhkah-YbChnK_krAFqb/exec'
