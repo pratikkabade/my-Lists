@@ -5,7 +5,7 @@ import { Home } from "../pages/Home"
 
 const RouteItems = [
     { name: "Home", link: "/", element: <Home /> },
-    { name: "Home", link: "/my-Barriers/", element: <Home /> },
+    { name: "Home", link: "/my-Lists/", element: <Home /> },
 ]
 
 
