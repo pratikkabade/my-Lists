@@ -33,7 +33,7 @@ export const ThisData = () => {
     fetchData()
 
     return (
-        <div className="flex justify-center flex-row items-center flex-wrap text-center mb-10">
+        <div className="flex justify-center flex-row items-center flex-wrap text-center lg:mb-96">
             <div className="m-10">
                 <div className="cursor-default block p-6 shadow-md shadow-gray-200 dark:shadow-gray-600 rounded-xl bg-gray-50 w-96 dark:bg-gray-800">
                     <h5 className="text-gray-900 text-6xl leading-tight font-medium mb-2 dark:text-gray-100">
